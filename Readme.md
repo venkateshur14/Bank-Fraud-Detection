@@ -1,4 +1,4 @@
-# Financial Transaction Fraud Detection
+# Bank Fraud Detection
 ## Motivation
 - Fraud Detection is a vital topic that applies to many industries including banking, insurance, law enforcement and government agencies. 
 - Fraud instances have seen a rise in the past few years so this topic is as critical as ever. Thus we need to be able to distinguish between authentic and fraudulent financial transactions. As the world moves towards digitization more transactions become cashless. 
